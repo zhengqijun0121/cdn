@@ -1,0 +1,10 @@
+/* mouse style */
+body {
+  cursor: url(https://cdn.jsdelivr.net/gh/zhengqijun0121/cdn@main/butterfly/mouse/default.cur),
+    default;
+}
+a,
+img {
+  cursor: url(https://cdn.jsdelivr.net/gh/zhengqijun0121/cdn@main/butterfly/mouse/pointer.cur),
+    default;
+}
